@@ -22,3 +22,6 @@ Naudojant HTML, CSS, JS (galimos bet kokios CSS, JS bibliotekos(React)) sukurti 
 (details page)
 • Trečias puslapis (patenkama paspaudus mygtuką pridėti, kuris yra pirmajame puslapyje) skirtas
 sukurti naują įrašą (New record form).
+
+##### `Technologies used`
+Javascrip, React, Tailwindcss.
